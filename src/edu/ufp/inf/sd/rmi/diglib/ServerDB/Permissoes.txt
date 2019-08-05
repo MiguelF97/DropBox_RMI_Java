@@ -1,0 +1,7 @@
+Miguel;4;Miguel;Diogo;jkl;Luis;
+Diogo;2;Diogo;Miguel;
+Oi;2;Oi;Miguel;
+asd;2;asd;Miguel;
+jkl;3;jkl;Miguel;Diogo;
+Luis;3;Luis;Diogo;Miguel;
+Teste;1;Teste;
